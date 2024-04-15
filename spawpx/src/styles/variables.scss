@@ -1,0 +1,13 @@
+$max-width-container: 1290px;
+$lg: 1289px;
+$sm: 526px;
+$z-index: (
+  DEFAULT: 0,
+  DROPDOWN: 1000,
+  STICKY: 100,
+  FIXED: 1030,
+  MODAL_BACKDROP: 1040,
+  MODAL: 1050,
+  POPOVER: 1060,
+  TOOLTIP: 1070,
+);
